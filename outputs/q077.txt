@@ -1,0 +1,4 @@
+Din = 27
+Mahina = 10
+Saal = 2026
+Total parts = 3

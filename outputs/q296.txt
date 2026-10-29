@@ -1,0 +1,2 @@
+Exception pakda: / by zero
+Program aage chalta raha

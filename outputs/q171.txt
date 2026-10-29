@@ -1,0 +1,2 @@
+Spaces wali string: Pehle: [    spaces on both sides    ]
+Baad me: [spaces on both sides]

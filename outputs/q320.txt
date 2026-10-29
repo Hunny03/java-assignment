@@ -1,0 +1,6 @@
+Daala: letter-1
+Nikala: letter-1
+Daala: letter-2
+Nikala: letter-2
+Daala: letter-3
+Nikala: letter-3

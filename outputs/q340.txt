@@ -1,0 +1,2 @@
+'k' ka int = 107
+'7' ka number = 7

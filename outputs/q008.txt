@@ -1,0 +1,1 @@
+Odd position ke elements: 15 35 55 

@@ -1,0 +1,1 @@
+Kitne subjects? Subject 1 ke marks: Subject 2 ke marks: Subject 3 ke marks: Subject 4 ke marks: Subject 5 ke marks: Average marks = 78.2

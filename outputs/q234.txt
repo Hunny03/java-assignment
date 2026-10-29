@@ -1,0 +1,3 @@
+25.0 integer hai
+25.75 integer nahi hai
+-8.0 integer hai

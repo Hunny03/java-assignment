@@ -1,0 +1,4 @@
+s = Java
+s = Java Rocks
+purana s2 = Java
+Purana String same raha, matlab String immutable hai

@@ -1,0 +1,4 @@
+String daalo: Letters = 15
+Numbers = 2
+Spaces = 5
+Other = 3

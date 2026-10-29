@@ -1,0 +1,6 @@
+Row 1 ka sum = 60
+Row 2 ka sum = 150
+Row 3 ka sum = 240
+Column 1 ka sum = 120
+Column 2 ka sum = 150
+Column 3 ka sum = 180

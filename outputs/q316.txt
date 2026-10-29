@@ -1,0 +1,3 @@
+Download chal raha hai, thread: T1
+Compress chal raha hai, thread: T2
+Upload chal raha hai, thread: T3

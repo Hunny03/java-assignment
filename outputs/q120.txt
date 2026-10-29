@@ -1,0 +1,2 @@
+Purana array: 10 20 30 40 50 
+Naya array: 50 20 30 40 10 

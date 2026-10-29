@@ -1,0 +1,4 @@
+Car: button dabao, engine on
+Car: button dubara dabao, engine off
+Motorcycle: kick maaro, engine on
+Motorcycle: chaabi band karo, engine off

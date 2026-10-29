@@ -1,0 +1,1 @@
+Positive number: Sab digits ka add = 19

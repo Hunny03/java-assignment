@@ -1,0 +1,2 @@
+Gurleen ke marks = 88
+Kabir ke marks = 73

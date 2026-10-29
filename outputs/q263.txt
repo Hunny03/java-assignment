@@ -1,0 +1,4 @@
+Pooja apna kaam kar raha hai
+Gaurav interview le raha hai aur HR ka kaam dekh raha hai
+Gaurav ne Pooja ko add kiya, total = 1
+Manager salary = 65000.0

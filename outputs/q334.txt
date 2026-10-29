@@ -1,0 +1,2 @@
+Object = Hello
+Wapas String = HELLO

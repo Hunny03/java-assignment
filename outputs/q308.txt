@@ -1,0 +1,3 @@
+Bahar wala try
+Andar wala finally hamesha chalta hai
+Bahar wale catch ne pakda: ArrayIndexOutOfBoundsException

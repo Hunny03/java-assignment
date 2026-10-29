@@ -1,0 +1,1 @@
+Even position ke elements: 25 45 65 

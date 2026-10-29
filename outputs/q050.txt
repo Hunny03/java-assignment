@@ -1,0 +1,2 @@
+String: Total characters (space ke bina) = 14
+Total characters (space ke saath) = 16

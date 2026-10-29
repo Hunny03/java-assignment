@@ -1,0 +1,2 @@
+Base ki length, width aur prism ki height: Prism ka volume = 120.0
+Prism ka surface area = 164.0

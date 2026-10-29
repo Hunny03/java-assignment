@@ -1,0 +1,7 @@
+Customer-1 ne seat book ki, bachi = 4
+Customer-2 ne seat book ki, bachi = 3
+Customer-3 ne seat book ki, bachi = 2
+Customer-4 ne seat book ki, bachi = 1
+Customer-5 ne seat book ki, bachi = 0
+Customer-6 ko seat nahi mili
+Customer-7 ko seat nahi mili

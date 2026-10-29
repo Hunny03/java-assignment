@@ -1,0 +1,3 @@
+Phone brand = null, storage = 0
+Laptop ka default constructor chala
+Laptop brand = Unknown

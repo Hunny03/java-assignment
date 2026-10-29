@@ -1,0 +1,3 @@
+Low-Thread chal raha hai, priority = 1
+Normal-Thread chal raha hai, priority = 5
+High-Thread chal raha hai, priority = 10

@@ -1,0 +1,2 @@
+Kitne integers daaloge: Ab numbers daalo: Even ka sum = 60
+Odd ka sum = 38

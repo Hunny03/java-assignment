@@ -1,0 +1,2 @@
+ABC ke permutations:
+ABC ACB BAC BCA CAB CBA 

@@ -1,0 +1,12 @@
+Student 1 ka naam: Student 1 ki class: Student 2 ka naam: Student 2 ki class: Student 3 ka naam: Student 3 ki class: Student 4 ka naam: Student 4 ki class: Student 5 ka naam: Student 5 ki class: Student 6 ka naam: Student 6 ki class: Student 7 ka naam: Student 7 ki class: Student 8 ka naam: Student 8 ki class: Student 9 ka naam: Student 9 ki class: Student 10 ka naam: Student 10 ki class: 
+Roll   Name     Class
+1      Aman     10A
+2      Bhavna     10A
+3      Chirag     10B
+4      Divya     10B
+5      Esha     10C
+6      Farhan     10C
+7      Gagan     10D
+8      Harleen     10D
+9      Ishaan     10E
+10      Jasleen     10E

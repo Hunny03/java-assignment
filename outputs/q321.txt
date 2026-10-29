@@ -1,0 +1,5 @@
+Loader: part 1 load ho raha hai
+Loader: part 2 load ho raha hai
+Loader: part 3 load ho raha hai
+Painter: ab screen paint kar raha hu
+Main: sab khatam

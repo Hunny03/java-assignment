@@ -1,0 +1,5 @@
+1 se 250 ka sum = 5830
+251 se 500 ka sum = 15706
+501 se 750 ka sum = 23147
+751 se 1000 ka sum = 31444
+1000 tak ke primes ka total sum = 76127

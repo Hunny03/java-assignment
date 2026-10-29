@@ -1,0 +1,1 @@
+Kya daalna hai aur kis position par: Naya array: 5 10 99 15 20 25 

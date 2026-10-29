@@ -1,0 +1,1 @@
+Pehle 100 prime ka sum = 24133

@@ -1,0 +1,2 @@
+5 numbers daalo:
+Average = 20.0

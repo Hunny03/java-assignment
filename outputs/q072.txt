@@ -1,0 +1,2 @@
+Sabse chhota palindrome = a
+Sabse bada palindrome = racecar

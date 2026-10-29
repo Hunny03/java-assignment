@@ -1,0 +1,2 @@
+Printer: normal line print ho rahi hai
+ColorPrinter: ab colour bhi daal diya

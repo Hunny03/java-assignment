@@ -1,0 +1,1 @@
+Number daalo: Digits ka sum = 35

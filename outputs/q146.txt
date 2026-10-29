@@ -1,0 +1,2 @@
+Principal, rate, saal me kitni baar compound, kitne saal: Total amount = 12682.417945625455
+Compound interest = 2682.417945625455

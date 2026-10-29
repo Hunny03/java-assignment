@@ -1,0 +1,2 @@
+450 450 450
+String ki length = 3

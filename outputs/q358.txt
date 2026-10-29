@@ -1,0 +1,6 @@
+Account 102 se 15000.0 nahi nikal sakte
+Accounts:
+  #101 Naveen 7500.0
+  #102 Preeti 8000.0
+101 band karne ke baad:
+  #102 Preeti 8000.0

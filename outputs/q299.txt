@@ -1,0 +1,4 @@
+Theek hai: -5
+Theek hai: -12
+Theek hai: 0
+Exception: Positive number mila: 7

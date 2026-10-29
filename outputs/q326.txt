@@ -1,0 +1,2 @@
+float = 249.75
+10% discount ke baad = 224.775

@@ -1,0 +1,2 @@
+Manager Ritu ki salary = 95000.0
+Programmer Dev ki salary = 104000.0

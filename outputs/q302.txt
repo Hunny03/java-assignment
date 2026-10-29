@@ -1,0 +1,4 @@
+programming me vowel hai
+Exception: rhythm me vowel nahi hai
+Exception: sky me vowel nahi hai
+orange me vowel hai

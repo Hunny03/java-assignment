@@ -1,0 +1,1 @@
+Number daalo: 10 ka factorial = 3628800

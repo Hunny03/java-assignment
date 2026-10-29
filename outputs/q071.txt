@@ -1,0 +1,6 @@
+Even length wale words:
+Learning
+Java
+is
+really
+good

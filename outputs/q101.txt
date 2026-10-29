@@ -1,0 +1,1 @@
+Pehla number: Dusra number: Sum = 41

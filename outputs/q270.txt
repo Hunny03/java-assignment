@@ -1,0 +1,4 @@
+Parent constructor chala
+Child constructor chala
+this.label = Child ka label
+super.label = Parent ka label

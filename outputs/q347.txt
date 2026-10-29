@@ -1,0 +1,2 @@
+Decimal number: Binary = 10110101
+Haath se nikala = 10110101

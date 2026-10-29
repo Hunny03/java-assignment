@@ -1,0 +1,9 @@
+Saare subsets:
+(empty)
+a
+b
+ab
+c
+ac
+bc
+abc

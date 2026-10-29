@@ -1,0 +1,2 @@
+Koi command line argument nahi diya
+Aise chalao: java oop.Q376 red green blue

@@ -1,0 +1,2 @@
+long value = 9876543210
+10 se multiply = 98765432100
